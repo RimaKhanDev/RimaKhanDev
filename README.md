@@ -2,7 +2,6 @@
 
 ### MERN Stack developer
 
-https://media.licdn.com/dms/image/v2/D5616AQFZSlgwQbGYxQ/profile-displaybackgroundimage-shrink_350_1400/B56ZWUTELuHEAY-/0/1741949787975?e=1765411200&v=beta&t=-HjkmhmOe88unOWbQC7wbfPtpu0XNU2pvf-svRRwDRY
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RimaKhanDev&label=Profile views&color=0e75b6&style=flat" alt="RimaKhanDev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RimaKhanDev" alt="RimaKhanDev" /></a> </p>
