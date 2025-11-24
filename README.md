@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rima Khatun
+# Hi 👋, I'm Rima Khan
 
 ## MERN Stack developer
 
