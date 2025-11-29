@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rima Khan
 
-### MERN Stack developer
+## MERN Stack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RimaKhanDev&label=Profile views&color=0e75b6&style=flat" alt="RimaKhanDev" /> </p>
 
