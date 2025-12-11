@@ -1,6 +1,6 @@
-##Hi 👋, I'm Rima Khan
+#Hi 👋, I'm Rima Khan
 
-#MERN Stack developer
+##MERN Stack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RimaKhanDev&label=Profile views&color=0e75b6&style=flat" alt="RimaKhanDev" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rimakhan6161" target="blank"><img src="https://img.shields.io/twitter/follow/rimakhan6161?logo=twitter&style=for-the-badge" alt="rimakhan6161" /></a> </p>
 
-- 🔭 I'm currently working on **a MERN stack project**
+- 🔭 I'm currently working on **A MERN stack project**
 
 - 🌱 I'm currently learning **Nextjs and TypeScript**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rimakhan6161@gmail.com**
 
-- ⚡ Fun fact **I Think i am funny**
+- ⚡ Fun fact **I Think i am good coder**
 
 - 👨‍💻 All of my projects are available at **[https://rk-portfoliyo.vercel.app](https://rk-portfoliyo.vercel.app)**
 
