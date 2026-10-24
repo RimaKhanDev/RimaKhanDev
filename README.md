@@ -1,4 +1,4 @@
-##Hi 👋, I'm Rima Khan
+#Hi 👋, I'm Rima Khan
 
 #MERN Stack developer
 
