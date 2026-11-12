@@ -1,45 +1,97 @@
-#Hi 👋, I'm Rima Khan
+<div align="center">
 
-#MERN Stack developer
+# Hi, I'm Rima Khan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RimaKhanDev&label=Profile views&color=0e75b6&style=flat" alt="RimaKhanDev" /> </p>
+### Assistant Engineer & Full Stack Developer at OMS IT
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RimaKhanDev" alt="RimaKhanDev" /></a> </p>
+**Full-Stack Development · MERN · React · TypeScript · AI-Assisted Applications**
 
-<p align="left"> <a href="https://twitter.com/rimakhan6161" target="blank"><img src="https://img.shields.io/twitter/follow/rimakhan6161?logo=twitter&style=for-the-badge" alt="rimakhan6161" /></a> </p>
+Building practical web applications, exploring scalable software architecture, and continuing my engineering journey.
 
-- 🔭 I'm currently working on **A MERN stack project**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-2563eb?style=for-the-badge&logo=github)](https://github.com/RimaKhanDev/rima-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rimakhandev)
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail)](mailto:rimakhan6161@gmail.com)
 
-- 🌱 I'm currently learning **Nextjs and TypeScript**
+![Profile views](https://komarev.com/ghpvc/?username=RimaKhanDev&label=Profile%20Views&color=2563eb&style=flat-square)
 
-- 👯 I'm looking to collaborate on **github**
+</div>
 
-- 🤝 I'm looking for help with **learning system design**
+---
 
-- 💬 Ask me about **Reactjs and web development**
+## 👩‍💻 About Me
 
-- 📫 How to reach me **rimakhan6161@gmail.com**
+I'm **Rima Khan**, an **Assistant Engineer & Full Stack Developer at OMS IT (Online Marketing Service)**. My interests include frontend engineering, backend APIs, database-driven systems, and AI-enabled product experiences.
 
-- ⚡ Fun fact **I Think i am good coder**
+I value clean interfaces, maintainable code, thoughtful documentation, and learning through real implementation. My education and technical training are **ongoing**.
 
-- 👨‍💻 All of my projects are available at **[https://rk-portfoliyo.vercel.app](https://rk-portfoliyo.vercel.app)**
+- 💻 **Engineering focus:** React, JavaScript, TypeScript, Node.js, Express, MongoDB, REST APIs
+- 🧩 **Interests:** Full-stack product development, software architecture, UI/UX and AI workflows
+- 🌱 **Currently learning:** System design, advanced TypeScript and modern application architecture
+- 🤝 **Community:** Aspire Campus Leader (CAL)
+- 💡 **Exploring:** ClimateShield BD — a *proposed* sustainability-focused initiative
 
-- 📝 I regularly write articles on **[https://my-project-opal-ten.vercel.app](https://my-project-opal-ten.vercel.app)**
+## 🛠️ Technology Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/RimaKhanDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RimaKhanDev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/rimakhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rimakhandev" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100073064973049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073064973049" height="30" width="40" /></a>
-<a href="https://twitter.com/rimakhan6161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimakhan6161" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,bootstrap,git,github,figma,vscode&perline=9)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RimaKhanDev&show_icons=true&locale=en&layout=compact" alt="RimaKhanDev" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RimaKhanDev&show_icons=true&locale=en" alt="RimaKhanDev" /></p>
+*The icons represent technologies used, studied or explored; they are not proficiency certifications.*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RimaKhanDev&" alt="RimaKhanDev" /></p>
+## 🚀 Projects & Portfolio
 
+| Area | Focus |
+| --- | --- |
+| **Full-Stack Web Applications** | Responsive interfaces, API integration, data-driven workflows |
+| **MERN Stack** | React, Express, Node.js and MongoDB application development |
+| **AI-Assisted Applications** | Exploring AI-enabled user experiences and workflow integrations |
+| **UI/UX & Frontend** | Accessible layouts, responsive components and interface refinement |
+| **ServiceFlow AI** | Portfolio case study and prototype material; production status not asserted |
+| **ClimateShield BD** | Proposed concept; not presented as a launched product |
+
+**Portfolio repository:** [RimaKhanDev/rima-portfolio](https://github.com/RimaKhanDev/rima-portfolio)
+
+> The complete website source is still being imported. Portfolio entries and concepts are not automatic evidence of live production deployment.
+
+## 🎓 Education & Professional Development
+
+- **AMIE Computer Science & Engineering studies** — ongoing; exact awarding details should be confirmed before formal credential claims
+- **University of the People (UoPeople)** — studies reported as ongoing; no completed degree claimed
+- **Aspire Campus Leader (CAL)** — community leadership and outreach activity
+- Continuing technical learning in full-stack development, TypeScript, system design and AI applications
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RimaKhanDev&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RimaKhanDev&layout=compact&hide_border=true)
+
+</div>
+
+*These are third-party dynamic widgets and may occasionally be unavailable.*
+
+## 🌐 Connect With Me
+
+| Platform | Link |
+| --- | --- |
+| GitHub | [@RimaKhanDev](https://github.com/RimaKhanDev) |
+| LinkedIn | [rimakhandev](https://www.linkedin.com/in/rimakhandev) |
+| X | [@rimakhan6161](https://x.com/rimakhan6161) |
+| Instagram | [@rimakhandev](https://www.instagram.com/rimakhandev/) |
+| Facebook | [Profile](https://www.facebook.com/share/1Jg9D7CoXc/) |
+| Email | [rimakhan6161@gmail.com](mailto:rimakhan6161@gmail.com) |
+| WhatsApp | [Message](https://wa.me/8801996547161) |
+
+---
+
+<div align="center">
+
+**Open to learning, collaboration and meaningful engineering projects.**
+
+<sub>Professional role at OMS IT does not imply personal OpenAI certification or endorsement of portfolio projects.</sub>
+
+</div>
