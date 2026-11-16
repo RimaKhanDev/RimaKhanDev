@@ -1,6 +1,6 @@
 <div align="center">
 
-# #Hi, I'm Rima Khan 👋
+#Hi, I'm Rima Khan 👋
 
 ### Assistant Engineer & Full Stack Developer at OMS IT
 
